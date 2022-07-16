@@ -1,1 +1,2 @@
-# README
+- [Preview](https://kitazuka.github.io/README/)
+- [Pull Request](https://github.com/Kitazuka/README/pull/1/files)
